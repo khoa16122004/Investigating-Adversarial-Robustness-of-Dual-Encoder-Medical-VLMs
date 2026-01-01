@@ -2,7 +2,7 @@
 
 This project conducts pioneering research on the adversarial robustness of dual-encoder medical Vision-Language Models (VLMs). It evaluates and attacks various medical VLMs to assess their vulnerability to adversarial perturbations.
 
-![pipeline](figure\es_attack.png)
+![pipeline](figure/es_attack.png)
 
 ## Installation
 
